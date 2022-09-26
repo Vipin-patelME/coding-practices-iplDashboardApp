@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: #ffffff33;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+.taemImage {
+  height: 150px;
+  width: 130px;
+  margin: 20px;
+}
+.team_name {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  margin: 40px;
+  font-size: 20px;
+}
